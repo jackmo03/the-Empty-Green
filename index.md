@@ -6,4 +6,4 @@
 文中名字切勿带入现实（  
 
 ### 章节列表  
-[章节列表（未完工）](http://dreamskywork.github.io/-/)
+[章节列表（未完工）](https://github.com/DreamSkyWork/-/tree/main)
