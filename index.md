@@ -1,5 +1,5 @@
 ## 空青
-![cover](https://github.com/DreamSkyWork/the-Empty-Green/blob/main/pics/空青-封面.png)  
+![cover](https://cdn.jsdelivr.net/gh/DreamSkyWork/the-Empty-Green@main/pics/%E7%A9%BA%E9%9D%92-%E5%B0%81%E9%9D%A2.png)  
 辉钼矿 作品  
 一群化竞汪追梦的故事  
 情节纯属虚构，如有雷同纯属巧合  
