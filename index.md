@@ -8,6 +8,7 @@
 
 ### 章节列表  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/tree/main" target="_blank">全部章节列表</a>  
-[0. 41年，9月](https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%200.md)  
-[1. 39年，3月-5月](https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%200.md)
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%200.md" target="_blank">0. 41年，9月</a>  
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%201.md" target="_blank">1. 39年，3月-5月</a>  
+
 
