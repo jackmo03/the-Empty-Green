@@ -5,6 +5,7 @@
 情节纯属虚构，如有雷同纯属巧合  
 年份经过特殊换算得来（笑  
 文中名字切勿带入现实（  
+暂时不接受转载  
 
 ### 章节列表  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/tree/main" target="_blank">全部章节列表</a>  
@@ -15,3 +16,5 @@
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%204.md" target="_blank">4. 39年，9-11月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%205.md" target="_blank">5. 41年，5月31日-6月1日</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%206.md" target="_blank">6. 40年，12月</a>  
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%207.md" target="_blank">7. 41年，6月</a>  
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%208.md" target="_blank">7. 39年，12月底</a>  
