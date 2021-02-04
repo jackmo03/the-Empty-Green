@@ -17,8 +17,8 @@
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%205.md" target="_blank">5. 41年，5月31日-6月1日</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%206.md" target="_blank">6. 40年，12月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%207.md" target="_blank">7. 41年，6月</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%208.md" target="_blank">7. 39年，12月底</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">7. 41年，6月</a>  
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%208.md" target="_blank">8. 39年，12月底</a>  
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">9. 41年，6月</a>  
 
 
 ### 评论区（需要GitHub账号）
