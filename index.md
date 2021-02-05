@@ -8,6 +8,9 @@
 暂时不接受转载  
 
 ## 章节列表  
+### 最近更新  
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">9. 41年，6月</a>  
+
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/tree/main" target="_blank">全部章节列表</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%200.md" target="_blank">0. 41年，9月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%201.md" target="_blank">1. 39年，3月-5月</a>  
@@ -18,7 +21,7 @@
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%206.md" target="_blank">6. 40年，12月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%207.md" target="_blank">7. 41年，6月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%208.md" target="_blank">8. 39年，12月底</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">9. 41年，6月(暂时未完工）</a>  
+<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">9. 41年，6月</a>  
 
 # 友情链接  
 ## 数海漂流  
