@@ -1,4 +1,4 @@
-## 空青
+# 空青
 ![cover](https://cdn.jsdelivr.net/gh/DreamSkyWork/the-Empty-Green@main/pics/%E7%A9%BA%E9%9D%92-%E5%B0%81%E9%9D%A2.png)  
 辉钼矿 作品  
 一群化竞汪追梦的故事  
@@ -19,3 +19,12 @@
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%207.md" target="_blank">7. 41年，6月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%208.md" target="_blank">8. 39年，12月底</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">9. 41年，6月(暂时未完工）</a>  
+
+# 友情链接  
+## 数海漂流  
+* Sweetlemon 写作的数学小说  
+* 探索新的小组学习模式及高等数学知识在高考中的应用  
+[阅读](https://sweetlemon39.gitee.io/drifting-in-sea-of-math/)  
+## 花与向量  
+花与向量是 Sweetlemon 高一时的作品，反映了数学竞赛生的生活，也是 Sweetlemon 创作尝试的开始。  
+[阅读](https://sweetlemon39.gitee.io/drifting-in-sea-of-math/flower-and-vector.html)
