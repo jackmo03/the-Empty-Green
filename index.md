@@ -19,6 +19,3 @@
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%207.md" target="_blank">7. 41年，6月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%208.md" target="_blank">8. 39年，12月底</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">9. 41年，6月(暂时未完工）</a>  
-
-
-### 评论区（需要GitHub账号）
