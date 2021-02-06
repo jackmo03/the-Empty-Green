@@ -34,7 +34,5 @@
 
 #### 访问量统计
 
-<span> <!-- 访问量统计 -->
-  <span class="post-meta-item-text">当前页面阅读量 </span>
-  <span id="twikoo_visitors">获取中</span>
-  </span>
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246206&c=9738931" alt="AmazingCounters.com"></a></div>
+
