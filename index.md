@@ -31,8 +31,3 @@
 ## 花与向量  
 花与向量是 Sweetlemon 高一时的作品，反映了数学竞赛生的生活，也是 Sweetlemon 创作尝试的开始。  
 [阅读](https://sweetlemon39.gitee.io/drifting-in-sea-of-math/flower-and-vector.html)
-
-#### 访问量统计
-
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246206&c=9738931" alt="AmazingCounters.com"></a></div>
-
