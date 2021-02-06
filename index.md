@@ -14,9 +14,9 @@
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/tree/main" target="_blank">全部章节列表</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter1.html" target="_blank">1. 39年，3月-5月</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%202.md" target="_blank">2. 41年，5月中旬</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%203.md" target="_blank">3. 41年，5月底</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%204.md" target="_blank">4. 39年，9-11月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter2.html" target="_blank">2. 41年，5月中旬</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter3.html" target="_blank">3. 41年，5月底</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter4.html" target="_blank">4. 39年，9-11月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%205.md" target="_blank">5. 41年，5月31日-6月1日</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%206.md" target="_blank">6. 40年，12月</a>  
 <a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%207.md" target="_blank">7. 41年，6月</a>  
@@ -25,8 +25,8 @@
 
 # 友情链接  
 ## 数海漂流  
-* Sweetlemon 写作的数学小说  
-* 探索新的小组学习模式及高等数学知识在高考中的应用  
+Sweetlemon 写作的数学小说  
+探索新的小组学习模式及高等数学知识在高考中的应用  
 [阅读](https://sweetlemon39.gitee.io/drifting-in-sea-of-math/)  
 ## 花与向量  
 花与向量是 Sweetlemon 高一时的作品，反映了数学竞赛生的生活，也是 Sweetlemon 创作尝试的开始。  
