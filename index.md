@@ -17,11 +17,11 @@
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter2.html" target="_blank">2. 41年，5月中旬</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter3.html" target="_blank">3. 41年，5月底</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter4.html" target="_blank">4. 39年，9-11月</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%205.md" target="_blank">5. 41年，5月31日-6月1日</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%206.md" target="_blank">6. 40年，12月</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%207.md" target="_blank">7. 41年，6月</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%208.md" target="_blank">8. 39年，12月底</a>  
-<a href="https://github.com/DreamSkyWork/the-Empty-Green/blob/main/Chapter%209.md" target="_blank">9. 41年，6月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter5.html" target="_blank">5. 41年，5月31日-6月1日</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter6.html" target="_blank">6. 40年，12月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter7.html" target="_blank">7. 41年，6月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter8.html" target="_blank">8. 39年，12月底</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter9.html" target="_blank">9. 41年，6月</a>  
 
 # 友情链接  
 ## 数海漂流  
