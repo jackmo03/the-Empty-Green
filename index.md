@@ -9,7 +9,7 @@
 
 ## 章节列表  
 ### 最近更新  
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter10.html" target="_blank">10. 40年，1月（未完成）</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter10.html" target="_blank">10. 40年，1月</a>  
 
 ### 全部章节  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
@@ -22,7 +22,7 @@
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter7.html" target="_blank">7. 41年，6月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter8.html" target="_blank">8. 39年，12月底</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter9.html" target="_blank">9. 41年，6月</a>  
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter10.html" target="_blank">10. 40年，1月（未完成）</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter10.html" target="_blank">10. 40年，1月</a>  
 
 # 友情链接  
 ## 数海漂流  
