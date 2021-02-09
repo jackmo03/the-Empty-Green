@@ -23,6 +23,16 @@
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter8.html" target="_blank">8. 39年，12月底</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter9.html" target="_blank">9. 41年，6月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter10.html" target="_blank">10. 40年，1月</a>  
+  
+##评论区
+<div id="tcomment"></div>
+<script src="https://cdn.jsdelivr.net/npm/twikoo@1.2.0/dist/twikoo.all.min.js"></script>
+<script>
+twikoo.init({
+  envId: 'comment-eg-6gk4byqq5e99cc3d',
+  el: '#tcomment',
+})
+</script>
 
 # 友情链接  
 ## 数海漂流  
