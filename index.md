@@ -33,7 +33,7 @@ MoS2 作品
     new Waline({
       el: '#waline',
       path: location.index,
-      serverURL: 'https://the-empty-green.vercel.app'
+      serverURL: 'https://the-empty-green.vercel.app/'
     });
   </script>
 
