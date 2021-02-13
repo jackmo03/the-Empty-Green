@@ -27,15 +27,17 @@ MoS2 作品
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter12.html" target="_blank">10. 40年，2月初</a>  
 <hr>
 ## 评论区  
-<script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
-<div id="waline"></div>
-  <script>
-    new Waline({
-      el: '#waline',
-      path: location.index,
-      serverURL: 'https://the-empty-green.vercel.app'
-    });
-  </script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script＞`,
+<div id="vcomment" class="comments-area"></div>
+<script＞
+  new Valine({
+      el:'#vcomment',
+      appId: 'oEvxzn9lavvXvzSz6AMwQGSr-gzGzoHsz',
+      appKey: 'dspGgw0uzJChIXTt1SjMIdB5',
+      avatar:'monsterid',
+      placeholder:"评论区无需注册"
+  })
+</script＞
 
   
 # 友情链接  
