@@ -1,10 +1,10 @@
-# 空青
+# 空青 ～ the Empty Green  
 ![cover](https://cdn.jsdelivr.net/gh/DreamSkyWork/the-Empty-Green@main/pics/%E7%A9%BA%E9%9D%92-%E5%B0%81%E9%9D%A2.png)  
-辉钼矿 作品  
-一群化竞生追梦的故事  
-情节纯属虚构，如有雷同纯属巧合  
-年份经过特殊换算得来（笑  
-文中名字切勿带入现实（  
+MoS2 作品  
+一种很漂亮的孔雀石，但是很容易破碎  
+本来只想随便写写的，没想到整成长篇了呢  
+如果有人把文中出现的人物带入现实，那一定是很baka的行为吧  
+不过，要是连文学的真实和纪实文学都分不清的话，读什么都会感到很尴尬的罢（笑  
 暂时不接受转载  
 
 ## 章节列表  
@@ -25,6 +25,18 @@
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter10.html" target="_blank">10. 40年，1月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter11.html" target="_blank">11. 41年，6月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter12.html" target="_blank">10. 40年，2月初</a>  
+<hr>
+## 评论区  
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<div id="vcomments"></div>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: 'eeeF1RY6sRkkNKrVFBJMPRTH-gzGzoHsz',
+        appKey: 'eGYVFQf0ByAIePC7xld46FuW'
+        })
+</script>
+
   
 # 友情链接  
 ## 数海漂流  
