@@ -9,7 +9,7 @@ MoS2 作品
 
 ## 章节列表  
 ### 最近更新  *202103091420(BJT)*
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter17.html" target="_blank">17. 41年，6月底</a>    
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter18.html" target="_blank">18. 40年，6月底-7月</a>    
 
 ### 全部章节  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
