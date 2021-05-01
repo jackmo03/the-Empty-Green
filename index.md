@@ -8,11 +8,12 @@ MoS2 作品
 暂时不接受转载  
 
 ## 章节列表  
-### 最近更新  *202104232230(BJT)* 
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter22.html" target="_blank">22. 41年，6月30日</a>    
+### 最近更新  *202105010900(BJT)* 
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter23.html" target="_blank">23. 41年，7月</a>    
+补完了chapter23的剩下一千多字
 部分内容（如公式）没有完全更新
 
-### 连载中 50.0千字  
+### 连载中 52.0千字  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter1.html" target="_blank">1. 39年，3月-5月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter2.html" target="_blank">2. 41年，5月中旬</a>  
@@ -36,6 +37,7 @@ MoS2 作品
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter20.html" target="_blank">20. 40年，7月</a>   
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter21.html" target="_blank">21. 40年，7月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter22.html" target="_blank">22. 41年，6月30日</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter23.html" target="_blank">23. 41年，7月</a>  
 <hr>
 ## 评论区  
 <script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
@@ -56,5 +58,5 @@ Sweetlemon 写作的数学小说
 欢迎插画合作  
 [阅读](https://sweetlemon39.gitee.io/drifting-in-sea-of-math/)  
 ## 花与向量  
-花与向量是 Sweetlemon 高一时的作品，反映了数学竞赛生的生活，也是 Sweetlemon 创作尝试的开始。  
+花与向量是 Sweetlemon 早期作品之一，反映了数学竞赛生的生活，也是 Sweetlemon 创作尝试的开始。  
 [阅读](https://sweetlemon39.gitee.io/drifting-in-sea-of-math/flower-and-vector.html)
