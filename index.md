@@ -9,11 +9,10 @@ MoS2 作品
 
 ## 章节列表  
 ### 最近更新  *202105010900(BJT)* 
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter23.html" target="_blank">23. 41年，7月</a>    
-补完了chapter23的剩下一千多字
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/24.html" target="_blank">24. 41年，7月</a>    
 部分内容（如公式）没有完全更新
 
-### 连载中 52.0千字  
+### 连载中 54.1千字  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter1.html" target="_blank">1. 39年，3月-5月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter2.html" target="_blank">2. 41年，5月中旬</a>  
@@ -38,6 +37,7 @@ MoS2 作品
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter21.html" target="_blank">21. 40年，7月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter22.html" target="_blank">22. 41年，6月30日</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter23.html" target="_blank">23. 41年，7月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter23.html" target="_blank">23. 41年，7月</a>    
 <hr>
 ## 评论区  
 <script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
