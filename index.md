@@ -8,9 +8,10 @@ MoS2 作品
 暂时不接受转载  
 
 ## 章节列表  
-### 最近更新  *202005291200(BJT)* 
+### 最近更新  *202106102148(BJT)* 
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter1.html" target="_blank">1. 39年，3月-5月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter26.html" target="_blank">26. 40年，8月初</a>    
-部分内容（如公式）没有完全更新
+重写了Chapter 1！终于改掉前面文笔生硬的毛病了
 
 ### 连载中 60.0千字  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
