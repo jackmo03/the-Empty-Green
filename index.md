@@ -9,10 +9,10 @@ MoS2 作品
 
 ## 章节列表  
 ### 最近更新  *202005291200(BJT)* 
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter25.html" target="_blank">26. 40年，8月初</a>    
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter26.html" target="_blank">26. 40年，8月初</a>    
 部分内容（如公式）没有完全更新
 
-### 连载中 54.1千字  
+### 连载中 60.0千字  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter1.html" target="_blank">1. 39年，3月-5月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter2.html" target="_blank">2. 41年，5月中旬</a>  
@@ -39,7 +39,7 @@ MoS2 作品
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter23.html" target="_blank">23. 41年，7月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter24.html" target="_blank">24. 41年，7月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter25.html" target="_blank">25. 40年，8月</a>    
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter25.html" target="_blank">26. 40年，8月初</a>    
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter26.html" target="_blank">26. 40年，8月初</a>    
 <hr>
 ## 评论区  
 <script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
