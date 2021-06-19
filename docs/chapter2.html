@@ -3,7 +3,7 @@
     <head>
         <title>2. 41年，5月中旬</title>
         <style>
-            p {text-indent:2em;} 
+		p {text-indent:2em;} .note-wrapper{max-width:64em;margin:0px auto;padding:1.57143em 3.14286em}
         </style>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,6 +12,13 @@
         <meta name="modified" content="2021-02-06T23:08:24+0800"/>
         <meta name="tags" content=""/>
         <meta name="last device" content="iPad"/>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+	<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
+	<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous"
+onload="renderMathInElement(document.body,{delimiters:[{left: '$$', right: '$$', display: true},{left: '$', right: '$', display: false},{left: '\\(', right: '\\)', display: false},{left: '\\[', right: '\\]', display: true}]});"></script>
+	<script src="https://cdn.jsdelivr.net/npm/twikoo@1.2.0/dist/twikoo.all.min.js"></script>
+	<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+	<link href='github-use.css' rel="stylesheet" type="text/css" />
         <script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
     </head>
     <body>
@@ -23,7 +30,7 @@
 	<span style="line-height:1;">2. 晶体场理论</span>
 </p>
 <p style="text-indent:31px;font-size:16px;font-family:Helvetica;">
-	<span style="line-height:1;">晶体场理论是静电作用模型，把中心离子M和配位体L的相互作用看作类似于离子晶体中正负离子的静电作用。当L接近M时，M的d轨道受到L负电荷的静电微扰作用，使原来能级简并的d轨道发生分裂。按照微扰理论可计算分裂能的大小，因计算繁琐，定性地将配位体看作一定对称性排布的点电荷与M的d轨道电子云产生排斥作用。由于d轨道分布的特点，在晶体场中原来5个能级简并的d轨道能级发生分裂，引起电子排布及其他一系列性质的变化，据此可解释配位化合物的许多性质。……d电子根据晶体场分裂能和电子成对能的相对大小填在这两组轨道上，形成强场低自旋或弱场高自旋结构，据此可解释配位化合物的结构、光谱、稳定性及磁性等一系列性质。</span>
+	<span style="line-height:1;">晶体场理论是静电作用模型，把中心离子M和配位体L的相互作用看作类似于离子晶体中正负离子的静电作用。当L接近M时，M的d轨道受到L负电荷的静电微扰作用，使原来能级简并的d轨道发生分裂。按照微扰理论可计算分裂能的大小，因计算繁琐，定性地将配位体看作一定对称性排布的点电荷与M的d轨道电子云产生排斥作用。由于d轨道分布的特点，在晶体场中原来5个能级简并的d轨道能级发生分裂，引起电子排布及其他一系列性质的变化，据此可解释配位化合物的许多性质。……d电子根据晶体场分裂能$Δ$和电子成对能的相对大小填在这两组轨道上，形成强场低自旋或弱场高自旋结构，据此可解释配位化合物的结构、光谱、稳定性及磁性等一系列性质。</span>
 </p>
 <p style="text-indent:31px;font-size:16px;font-family:Helvetica;">
 	<span style="line-height:1;">3. 分子轨道理论</span>
@@ -31,8 +38,8 @@
 <p style="text-indent:31px;font-size:16px;font-family:Helvetica;">
 	<span style="line-height:1;">配位化合物的分子轨道理论是用分子轨道理论的观点和方法处理金属离子和配位体的成键作用。在描述配位化合物分子的状态时，是用M的价层电子波函数与配位体L的分子轨道组成的离域分子轨道</span>
 </p>
-<p>
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mrow><mo>ψ</mo></mrow><mo>=</mo><msub><mi>c</mi><mi>M</mi></msub><msub><mrow><mo>ψ</mo></mrow><mi>M</mi></msub><mo>+</mo><mo data-mjx-texclass="OP">∑</mo><msub><mi>c</mi><mi>L</mi></msub><msub><mrow><mo>ψ</mo></mrow><mi>L</mi></msub></math>
+<p style="text-align:center;">
+$\psi=c_M\psi_M+\sum c_L\psi_L$
 </p>
 <p style="text-indent:31px;font-size:16px;font-family:Helvetica;">
 	<span style="line-height:1;">……为了有效地组成分子轨道，要满足对称性匹配、轨道最大重叠、能级高低相近等条件……</span>
@@ -50,7 +57,7 @@
 <p>“强弱不同的配位场会使得过渡金属这个中心原子的电子排布发生改变，在强场中是低自旋，d电子克服电子成对能而两两挤在一个轨道上，这时候配合物的单电子数为零或一……”辉钼矿站在讲台上，像个年轻的女教师。</p>
 <p>这只是化万部的传统之一，每一届化万部都会给下一届命制两到三套试题，批改以后讲评。莫云这一届本来还有十多个人，每人命一题还有多余。结果寒假一过，一下只剩九个人。辉钼矿本来并不是部长（事实上也不存在化万部部长），她还是主动承担讲评的任务。发现学弟学妹们连配合物的晶体场理论都没掌握，她只得再讲一遍。</p>
 <p>“假设在d轨道周围不是太远的地方有一个球壳，均匀地带负电，和这个d电子云排斥。d电子的能量会怎样？肯定是均匀升高。”白板上多出了五道横线，表示简并的五个d轨道。</p>
-<p>“但是如果我们把这个球壳换成点电荷，情况就又些不一样了。假设这有六个点电荷，每根坐标轴上都有两个，构成的这个正八面体场，是不均匀的电场。相应地会对五个不同取向的d轨道产生不同的影响。”她在白板一边画了5个轮廓图，分别代表五个取向。“<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup></math>和<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msup><mi>z</mi><mn>2</mn></msup></math>，它们都沿着坐标轴分布，嗯，受到的排斥最强，是吧？”台下都在点头，钼便继续讲：“所以它们的能量上升更多——注意，这个过程中应当看作能量不变的变化，因此剩下三个轨道的能量必定降低——”</p>
+<p>“但是如果我们把这个球壳换成点电荷，情况就又些不一样了。假设这有六个点电荷，每根坐标轴上都有两个，构成的这个正八面体场，是不均匀的电场。相应地会对五个不同取向的d轨道产生不同的影响。”她在白板一边画了5个轮廓图，分别代表五个取向。“$x^2-y^2$和$z^2$，它们都沿着坐标轴分布，嗯，受到的排斥最强，是吧？”台下都在点头，钼便继续讲：“所以它们的能量上升更多——注意，这个过程中应当看作能量不变的变化，因此剩下三个轨道的能量必定降低——”</p>
 <p><img src='data:image/jpg;base64,/9j/4AAQSkZJRgABAQEBAAEAAAD/4SDtRXhpZgAATU0AKgAAAAgABgESAAMAAAAB
 AAEAAAEaAAUAAAABAAAAVgEbAAUAAAABAAAAXgEoAAMAAAABAAIAAAITAAMAAAAB
 AAEAAIdpAAQAAAABAAAAZgAAAMAAAAEAAAAAAQAAAQAAAAABAAeQAAAHAAAABDAy
@@ -5798,8 +5805,8 @@ DdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqAD
 dQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADdQAbqADd
 QA7d7UAG4UALu96AFDUAKG9aAHAigBwagBdwoAdnFAC7qAHUAFAC5NADgc0ALQAU
 AFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFAH//Z'></p>
-<p>白板上的五个简并轨道中，有两条能量上升，三条能量下降。“它们的总能量差，叫八面体场分裂能Δo，o代表八面体，然后我们就可以根据升高的总能量等于降低的总能量，算出每个轨道相对于球形场的能量变化，比如升高的这两个：现在简并成<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>e</mi><mi>g</mi></msub></math>轨道了——e表示二重简并，t表示三重简并，g表示波相中心对称——每一个<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>e</mi><mi>g</mi></msub></math>都升高了零点六个八面体场分裂能；剩下的简并成<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>t</mi><mn>2</mn></msub><mi>g</mi></math>，它们每个降低零点四个分裂能。</p>
-<p>“从结构化学基础上能查到很多配合物的分裂能，以波数表示，用波的相关知识就可以知道，波数越高，分裂能越大，电子填入<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>t</mi><mn>2</mn></msub><mi>g</mi></math>轨道中降低的能量越多。每当有电子填入一个未占用的<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>t</mi><mn>2</mn></msub><mi>g</mi></math>，能量降低零点四个分裂能；填入一个未占用的<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><msub><mi>e</mi><mi>g</mi></msub></math>，升高的能量就是零点六个分裂能。电子成对时要升高一个电子成对能P，这些能量变化之和就是晶体场稳定化能，在配位场理论中就叫配位场稳定化能。”</p>
+<p>白板上的五个简并轨道中，有两条能量上升，三条能量下降。“它们的总能量差，叫八面体场分裂能$\mathrm{\Delta}_o$，o代表八面体，然后我们就可以根据升高的总能量等于降低的总能量，算出每个轨道相对于球形场的能量变化，比如升高的这两个：现在简并成$e_g$轨道了——e表示二重简并，t表示三重简并，g表示波相中心对称——每一个$e_g$都升高了零点六个八面体场分裂能；剩下的简并成$t_{2g}$，它们每个降低零点四个分裂能。</p>
+<p>“从结构化学基础上能查到很多配合物的分裂能，以波数表示，用波的相关知识就可以知道，波数越高，分裂能越大，电子填入$t_{2g}$轨道中降低的能量越多。每当有电子填入一个未占用的$t_{2g}$，能量降低零点四个分裂能；填入一个未占用的$e_g$，升高的能量就是零点六个分裂能。电子成对时要升高一个电子成对能P，这些能量变化之和就是晶体场稳定化能，在配位场理论中就叫配位场稳定化能。”</p>
 <br>
 <br>
 <p>“他们反映说你讲得有点快，但是讲得很明白，甚至比他们的教练还明白。”</p>
@@ -5847,9 +5854,5 @@ AFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFAH//Z'></p>
       serverURL: 'https://the-empty-green.vercel.app'
     });
   </script>
-        <style>
-            html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline}html{line-height:1}ol,ul{list-style:none}table{border-collapse:collapse;border-spacing:0}caption,th,td{text-align:left;font-weight:normal;vertical-align:middle}q,blockquote{quotes:none}q:before,q:after,blockquote:before,blockquote:after{content:"";content:none}a img{border:none}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}html{font-size:87.5%;line-height:1.57143em}html{font-size:14px;line-height:1.6em;-webkit-text-size-adjust:100%}body{background:#fcfcfc;color:#545454;text-rendering:optimizeLegibility;font-family:"AvenirNext-Regular"}a{color:#de4c4f;text-decoration:none}h1{font-family:"AvenirNext-Medium";color:#333;font-size:1.6em;line-height:1.3em;margin-bottom:.78571em}h2{font-family:"AvenirNext-Medium";color:#333;font-size:1.3em;line-height:1em;margin-bottom:.62857em}h3{font-family:"AvenirNext-Medium";color:#333;font-size:1.15em;line-height:1em;margin-bottom:.47143em}p{margin-bottom:1.57143em;hyphens:auto}hr{height:1px;border:0;background-color:#dedede;margin:-1px auto 1.57143em auto}ul,ol{margin-bottom:.31429em}ul ul,ul ol,ol ul,ol ol{margin-bottom:0px}ol{counter-reset:ol_counter}ol li:before{content:counter(ol_counter) ".";counter-increment:ol_counter;color:#e06e73;text-align:right;display:inline-block;min-width:1em;margin-right:0.5em}b,strong{font-family:"AvenirNext-Bold"}i,em{font-family:"AvenirNext-Italic"}code{font-family:"Menlo-Regular"}.text-overflow-ellipsis{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.sf_code_string,.sf_code_selector,.sf_code_attr-name,.sf_code_char,.sf_code_builtin,.sf_code_inserted{color:#D33905}.sf_code_comment,.sf_code_prolog,.sf_code_doctype,.sf_code_cdata{color:#838383}.sf_code_number,.sf_code_boolean{color:#0E73A2}.sf_code_keyword,.sf_code_atrule,.sf_code_rule,.sf_code_attr-value,.sf_code_function,.sf_code_class-name,.sf_code_class,.sf_code_regex,.sf_code_important,.sf_code_variable,.sf_code_interpolation{color:#0E73A2}.sf_code_property,.sf_code_tag,.sf_code_constant,.sf_code_symbol,.sf_code_deleted{color:#1B00CE}.sf_code_macro,.sf_code_entity,.sf_code_operator,.sf_code_url{color:#920448}.note-wrapper{max-width:46em;margin:0px auto;padding:1.57143em 3.14286em}.note-wrapper.spotlight-preview{overflow-x:hidden}u{text-decoration:none;background-image:linear-gradient(to bottom, rgba(0,0,0,0) 50%,#e06e73 50%);background-repeat:repeat-x;background-size:2px 2px;background-position:0 1.05em}s{color:#878787}p{margin-bottom:0.1em}hr{margin-bottom:0.7em;margin-top:0.7em}ul li{text-indent:-0.35em}ul li:before{content:"•";color:#e06e73;display:inline-block;margin-right:0.3em}ul ul{margin-left:1.25714em}ol li{text-indent:-1.45em}ol ol{margin-left:1.25714em}blockquote{display:block;margin-left:-1em;padding-left:0.8em;border-left:0.2em solid #e06e73}.todo-list ul{margin-left:1.88571em}.todo-list li{text-indent:-1.75em}.todo-list li:before{content:"";display:static;margin-right:0px}.todo-checkbox{text-indent:-1.7em}.todo-checkbox svg{margin-right:0.3em;position:relative;top:0.2em}.todo-checkbox svg #check{display:none}.todo-checkbox.todo-checked #check{display:inline}.todo-checkbox.todo-checked+.todo-text{text-decoration:line-through;color:#878787}.code-inline{display:inline;background:white;border:solid 1px #dedede;padding:0.2em 0.5em;font-size:0.9em}.code-multiline{display:block;background:white;border:solid 1px #dedede;padding:0.7em 1em;font-size:0.9em;overflow-x:auto}.hashtag{display:inline-block;color:white;background:#b8bfc2;padding:0.0em 0.5em;border-radius:1em;text-indent:0}.hashtag a{color:#fff}.address a{color:#545454;background-image:linear-gradient(to bottom, rgba(0,0,0,0) 50%,#0da35e 50%);background-repeat:repeat-x;background-size:2px 2px;background-position:0 1.05em}.address svg{position:relative;top:0.2em;display:inline-block;margin-right:0.2em}.color-preview{display:inline-block;width:1em;height:1em;border:solid 1px rgba(0,0,0,0.3);border-radius:50%;margin-right:0.1em;position:relative;top:0.2em;white-space:nowrap}.color-code{margin-right:0.2em;font-family:"Menlo-Regular";font-size:0.9em}.color-hash{opacity:0.4}.ordered-list-number{color:#e06e73;text-align:right;display:inline-block;min-width:1em}.arrow svg{position:relative;top:0.08em;display:inline-block;margin-right:0.15em;margin-left:0.15em}.arrow svg #rod{stroke:#545454}.arrow svg #point{fill:#545454}mark{color:inherit;display:inline;padding:0.2em 0.5em;background-color:#fcffc0}img{max-width:100%;height:auto}
-
-        </style>
     </body>
 </html>
