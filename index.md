@@ -8,8 +8,10 @@ MoS2 作品
 暂时不接受转载  
 
 ## 章节列表  
-### 最近更新  *202107041648(BJT)* 
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter29.html" target="_blank">29. 41年，7月初</a>  
+### 最近更新  *202107151710(BJT)* 
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter30.html" target="_blank">30. 40年，8月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter31.html" target="_blank">31. 40年，8月底</a>  
+这两节都没有弄完  
 
 ### 连载中 66.7千字  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
@@ -42,6 +44,8 @@ MoS2 作品
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter27.html" target="_blank">27. 40年，8月中旬</a>    
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter28.html" target="_blank">28. 40年，8月中旬</a>    
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter29.html" target="_blank">29. 41年，7月初</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter30.html" target="_blank">30. 40年，8月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter31.html" target="_blank">31. 40年，8月底</a>  
 <hr>
 ## 评论区  
 <script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
