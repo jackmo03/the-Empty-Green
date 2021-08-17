@@ -7,6 +7,9 @@ MoS2 作品
 不过，要是连文学的真实和纪实文学都分不清的话，读什么都会感到很尴尬的罢（笑  
 暂时不接受转载  
 
+## 作者的提问箱  
+<a href="https://dreamskywork.github.io/the-Empty-Green/asking-box.html" target="_blank">这是一个提问箱</a>
+
 ## 章节列表  
 ### 最近更新  *202107151710(BJT)* 
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter30.html" target="_blank">30. 40年，8月</a>  
