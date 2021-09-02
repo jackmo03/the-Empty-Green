@@ -7,11 +7,14 @@ MoS2 作品
 不过，要是连文学的真实和纪实文学都分不清的话，读什么都会感到很尴尬的罢（笑  
 暂时不接受转载  
 
+## 作者的提问箱  
+<a href="https://dreamskywork.github.io/the-Empty-Green/asking-box.html" target="_blank">这是一个提问箱</a>
+
 ## 章节列表  
-### 最近更新  *202106102148(BJT)* 
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter1.html" target="_blank">1. 39年，3月-5月</a>  
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter26.html" target="_blank">26. 40年，8月初</a>    
-重写了Chapter 1！终于改掉前面文笔生硬的毛病了
+### 最近更新  *202107151710(BJT)* 
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter30.html" target="_blank">30. 40年，8月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter31.html" target="_blank">31. 40年，8月底</a>  
+这两节都没有弄完  
 
 ### 连载中 66.7千字  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter0.html" target="_blank">0. 41年，9月</a>  
@@ -41,7 +44,11 @@ MoS2 作品
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter24.html" target="_blank">24. 41年，7月</a>  
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter25.html" target="_blank">25. 40年，8月</a>    
 <a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter26.html" target="_blank">26. 40年，8月初</a>    
-<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter27.html" target="_blank">27. 40年，8月中旬（施工中）</a>    
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter27.html" target="_blank">27. 40年，8月中旬</a>    
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter28.html" target="_blank">28. 40年，8月中旬</a>    
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter29.html" target="_blank">29. 41年，7月初</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter30.html" target="_blank">30. 40年，8月</a>  
+<a href="https://dreamskywork.github.io/the-Empty-Green/docs/chapter31.html" target="_blank">31. 40年，8月底</a>  
 <hr>
 ## 评论区  
 <script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
